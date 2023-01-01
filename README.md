@@ -17,3 +17,4 @@ The **_Markdown_** tutoril I'm doing is at [here](https://www.markdowntutorial.c
 
 This repository is a work following the Github tutorial. If you are invited to join this reporisory as practice, you may find out more about this tutorial in [this link](https://docs.github.com/en/get-started/quickstart/hello-world).
 
+[This video](https://www.youtube.com/watch?v=NcoBAfJ6l2Q&t=1021s) from CS50 is also a good tutoril for git/github.

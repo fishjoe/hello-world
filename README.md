@@ -2,15 +2,15 @@
 
 Hi my name is Joe Yu. I'm looking at getting a path in the computer programming world. This is the learning on Github as We all rely on helping each other.
 
-I'm also learning **markdown** at the same time so please don't be supprised to see these headings from 
-
-###### six 
-##### five
-#### four
-### three
-## two
-_to_
-# one.
+>I'm also learning **markdown** at the same time so please don't be supprised to see these headings from 
+>
+>###### six 
+>##### five
+>#### four
+>### three
+>## two
+>_to_
+># one.
 
 The **_Markdown_** tutoril I'm doing is at [here](https://www.markdowntutorial.com/lesson/1/).
 

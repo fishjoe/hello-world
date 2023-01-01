@@ -1,4 +1,4 @@
-# hello-world from _Joe_
+# _hello-world from Joe_
 
 Hi my name is Joe Yu. I'm looking at getting a path in the computer programming world. This is the learning on Github as We all rely on helping each other.
 
